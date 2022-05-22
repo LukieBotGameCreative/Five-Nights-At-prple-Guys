@@ -1,0 +1,27 @@
+{
+  "animatronics": {
+    "pRPLE GUY": {
+      "enter_office": true,
+      "ignore_mask": false,
+      "night_1_AI": 10,
+      "night_2_AI": 0,
+      "night_3_AI": 0,
+      "night_4_AI": 0,
+      "night_5_AI": 0,
+      "night_6_AI": 0
+    }
+  },
+  "cameras": [],
+  "extras": [],
+  "office": {
+    "buttons": [],
+    "doors": [],
+    "flashlight": true,
+    "mask": true,
+    "mask_animation": "C:\\Users\\HZPC\\Desktop\\BALDI_1.4.3",
+    "sprites": {
+      "default": "Ofice fnaf.png"
+    }
+  },
+  "title_screen": []
+}
